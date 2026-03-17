@@ -1,0 +1,43 @@
+{
+  "name": "rds-lp-test",
+  "private": true,
+  "type": "module",
+  "packageManager": "yarn@4.0.1",
+  "ssr": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare",
+    "build-staging": "yarn run env-staging && nuxt generate",
+    "build-production": "yarn run env-production && nuxt generate",
+    "env-local": "cp .env.local .env",
+    "env-staging": "cp .env.staging .env",
+    "env-production": "cp .env.production .env"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.6.0",
+    "@fortawesome/free-solid-svg-icons": "^6.6.0",
+    "@fortawesome/vue-fontawesome": "^3.0.8",
+    "@nuxtjs/robots": "^5.2.4",
+    "@popperjs/core": "^2.11.8",
+    "@rds-vue-ui/analytics-gs-composable": "^0.0.6",
+    "@rds-vue-ui/footer-standard": "^0.4.0",
+    "@rds-vue-ui/hero-standard-apollo": "^0.2.3",
+    "@rds-vue-ui/overlap-accordion-atlas": "^0.1.16",
+    "@rds-vue-ui/rds-alert": "^0.2.0",
+    "@rds-vue-ui/rds-theme-base": "^0.7.1",
+    "@rds-vue-ui/section-apollo": "^0.2.0",
+    "@rds-vue-ui/section-testimonial-falcon": "^0.3.0",
+    "bootstrap": "^5.3.3",
+    "bootstrap-vue-next": "^0.24.21",
+    "maz-ui": "^3.45.4",
+    "nuxt": "^3.13.0",
+    "sass": "^1.78.0",
+    "sass-loader": "^16.0.1",
+    "typescript": "^5.4.2",
+    "vue": "^3.5.8",
+    "vue-router": "^4.4.0"
+  }
+}

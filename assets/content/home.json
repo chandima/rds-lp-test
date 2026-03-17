@@ -1,0 +1,121 @@
+{
+  "pageTitle": "ASU and MLB Partnership",
+  "header": {
+    "logoSrc": "/icons/asu-mlb-logo.svg",
+    "logoAlt": "Arizona State University Online logo",
+    "ctaText": "Get started today",
+    "ctaHref": "https://mlb.asu.edu/requestinfo"
+  },
+  "hero": {
+    "title": "Real-world skills, major league impact",
+    "bgImageSource": "/images/mlb/index-hero.png",
+    "bgImageAlt": "Graduate in cap and gown outdoors with palm trees in the background"
+  },
+  "intro": {
+    "iconSrc": "/icons/mlb-intro.svg",
+    "iconAlt": "Online learning icon",
+    "textBeforeHighlight": "Arizona State University is proud to team up with Major League Baseball as a preferred education partner to",
+    "highlightText": "help current and former players",
+    "textAfterHighlight": "build successful careers beyond baseball."
+  },
+  "support": {
+    "title": "Supporting players on and off the field",
+    "description": "Together, we're empowering athletes to excel in their careers and lives by offering flexible, high-quality learning opportunities in both English and Spanish. Our online programs are designed to inspire lifelong learning and help players drive meaningful change in their lives and communities.",
+    "image": "/images/mlb/acc1.png",
+    "imageAlt": "ASU student studying on a laptop in a classroom",
+    "items": [
+      {
+        "accordionId": "22",
+        "title": "Accessible online learning",
+        "body": "<p>Our online learning platforms are designed to support demanding athletic schedules, allowing players to learn from anywhere - even while traveling or training - without compromising their professional commitments.</p>"
+      },
+      {
+        "accordionId": "23",
+        "title": "Same faculty, same degree",
+        "body": "<p>ASU's faculty are renowned research professionals and industry leaders dedicated to student success. Online students learn from the same faculty and follow the same curriculum as on-campus students.</p>"
+      },
+      {
+        "accordionId": "24",
+        "title": "Support for a diverse player community",
+        "body": "<p>Our flexible educational programs have options in both English and Spanish, ensuring every athlete can access the support and resources they need to succeed.</p>"
+      },
+      {
+        "accordionId": "25",
+        "title": "Inclusion through education",
+        "body": "<p>Rooted in ASU's charter values of inclusion, innovation and community impact, this partnership combines Major League Baseball's commitment to player development with ASU's mission to reach all learners, including non-traditional and underserved communities.</p>"
+      }
+    ]
+  },
+  "getStarted": {
+    "title": "How can players get started?",
+    "body": "Through this partnership, current or former MLB players can begin or continue their academic journey on a path tailored specifically to their needs. With education options in both English and Spanish, players can earn their GED or high school diploma, enhance their English language skills, complete short-form certificate programs to develop specific skills or pursue a college degree. Every player has access to a dedicated bilingual ASU success coach offering personalized support, including tailored degree plans, tutoring, cutting-edge technologies and resources.",
+    "buttonText": "Get started today",
+    "link": "https://mlb.asu.edu/requestinfo",
+    "image": "/images/mlb/overlap.png"
+  },
+  "testimonial": {
+    "label": "Hear from our students",
+    "text": "&ldquo;The idea of going back to school after nearly 20 years was daunting. My apprehension quickly faded when I learned about ASU's dedicated support team which was designed to facilitate a smooth transition for students like me. Walking across that graduation stage was an unforgettable moment. I am immensely grateful to ASU for providing a pathway to success.&rdquo;",
+    "imageSource": "/images/mlb/testimg.png",
+    "imageAlt": "Portrait of Chris Young",
+    "authorText": "Chris Young",
+    "designationText": "'21 BA in business (business administration)",
+    "descriptionText": "Former MLB player for the Arizona Diamondbacks, Oakland Athletics, New York Mets, New York Yankees, Boston Red Sox and Los Angeles Angels"
+  },
+  "footer": {
+    "secondaryItems": [
+      {
+        "text": "Maps and Locations",
+        "uri": "https://www.asu.edu/about/locations-maps",
+        "target": "BLNK"
+      },
+      {
+        "text": "Jobs",
+        "uri": "https://www.asu.edu/asujobs",
+        "target": "BLNK"
+      },
+      {
+        "text": "Directory",
+        "uri": "https://isearch.asu.edu/asu-people/",
+        "target": "BLNK"
+      },
+      {
+        "text": "Contact ASU",
+        "uri": "https://www.asu.edu/about/contact",
+        "target": "BLNK"
+      },
+      {
+        "text": "My ASU",
+        "uri": "https://my.asu.edu/",
+        "target": "BLNK"
+      }
+    ],
+    "tertiaryItems": [
+      {
+        "text": "Copyright and Trademark",
+        "uri": "https://www.asu.edu/about/copyright-trademark",
+        "target": "BLNK"
+      },
+      {
+        "text": "Accessibility",
+        "uri": "https://accessibility.asu.edu/report",
+        "target": "BLNK"
+      },
+      {
+        "text": "Privacy",
+        "uri": "https://www.asu.edu/privacy/",
+        "target": "BLNK"
+      },
+      {
+        "text": "Terms of Use",
+        "uri": "https://www.asu.edu/tou/",
+        "target": "BLNK"
+      },
+      {
+        "text": "Emergency",
+        "uri": "https://www.asu.edu/emergency/",
+        "target": "BLNK"
+      }
+    ]
+  }
+}
