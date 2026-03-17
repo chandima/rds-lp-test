@@ -4,7 +4,7 @@
     "logoSrc": "/icons/asu-mlb-logo.svg",
     "logoAlt": "Arizona State University Online logo",
     "ctaText": "Get started today",
-    "ctaHref": "https://mlb.asu.edu/requestinfo"
+    "ctaHref": ""
   },
   "hero": {
     "title": "Real-world skills, major league impact",
@@ -50,7 +50,7 @@
     "title": "How can players get started?",
     "body": "Through this partnership, current or former MLB players can begin or continue their academic journey on a path tailored specifically to their needs. With education options in both English and Spanish, players can earn their GED or high school diploma, enhance their English language skills, complete short-form certificate programs to develop specific skills or pursue a college degree. Every player has access to a dedicated bilingual ASU success coach offering personalized support, including tailored degree plans, tutoring, cutting-edge technologies and resources.",
     "buttonText": "Get started today",
-    "link": "https://mlb.asu.edu/requestinfo",
+    "link": "",
     "image": "/images/mlb/overlap.png"
   },
   "testimonial": {

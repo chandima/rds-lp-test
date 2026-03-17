@@ -20,11 +20,14 @@ defineProps<{
             </div>
           </div>
           <div class="col-5 col-md-4 d-flex align-items-center justify-content-end">
-            <a :href="ctaHref" class="text-decoration-none">
+            <a v-if="ctaHref" :href="ctaHref" class="text-decoration-none">
               <div class="request-button fw-bold">
                 {{ ctaText }}
               </div>
             </a>
+            <div v-else class="request-button fw-bold">
+              {{ ctaText }}
+            </div>
           </div>
         </div>
       </div>
